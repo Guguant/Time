@@ -7,10 +7,10 @@
 
 Thank you.
 
-###list  
---------
-1.bingo-three:  
+list
+--------  
+1.[bingo-three](https://github.com/Guguant/honey-time/tree/master/bingo-three)    
 	a samll table game in windows system.  
 
-2.health:  
+2.[health](https://github.com/Guguant/honey-time/tree/master/health)  
 	to remind you to have a break.  
