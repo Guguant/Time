@@ -6,3 +6,11 @@
   So I hope these things can be passed to our sons or , doughters.
 
 Thank you.
+
+###list  
+--------
+1.bingo-three:  
+	a samll table game in windows system.  
+
+2.health:  
+	to remind you to have a break.  
