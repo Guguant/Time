@@ -1,4 +1,4 @@
-###Time to make memories  
+### Time to make memories  
   
   Time is to choose your attitude for the world.  
   I want to tell you , so many interested game in our little ages.  
@@ -11,7 +11,8 @@ Thank you.
 
 list
 ------------
-  1. [bingo-three](https://github.com/Guguant/honey-time/tree/master/bingo-three)  
-    *   a samll table game in windows system.  
-  2. [health](https://github.com/Guguant/honey-time/tree/master/health)  
-    *   to remind you to have a break.  
+
+1. [bingo-three](https://github.com/Guguant/honey-time/tree/master/bingo-three)  
+   a samll table game in windows system.  
+2. [health](https://github.com/Guguant/honey-time/tree/master/health)  
+   to remind you to have a break.  
