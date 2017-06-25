@@ -1,8 +1,8 @@
-# bingo three:  
+# bingo three
 This is a interesting game in China. As you know, you will find much more interesting culture if you come to China.  
 China is fancy.  
 
-# bingo three is named as 成三 in China.  
+# bingo three is named as 成三 in China
 ![three](https://github.com/Guguant/honey-time/blob/master/bingo-three/logo/intro.png)  
 
 
