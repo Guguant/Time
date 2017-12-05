@@ -1,18 +1,9 @@
-### Time to make memories  
-  
-  Time is to choose your attitude for the world.  
-  I want to tell you , so many interested game in our little ages.  
-  But when we grow up, we forget to these memories.  
-  So I hope these things can be passed to our sons or , doughters.  
+# What is bear? 介紹
 
-  welcome to join us.  
+Bear is being a book to introduce traditional games all over the world.You maybe see what you have played, or your parents.
 
-Thank you.  
+I believe traditional games make relax and happy us. If you do, welcome to share your idea and pull requests.:relaxed:
 
-list
-------------
+# Contributors 貢獻者
 
-1. [bingo-three](https://github.com/Guguant/honey-time/tree/master/bingo-three)  
-   a samll table game in windows system.  
-2. [health](https://github.com/Guguant/honey-time/tree/master/health)  
-   to remind you to have a break.  
+* [guguant](https://github.com/Guguant)
