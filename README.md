@@ -7,3 +7,17 @@ I believe traditional games make relax and happy us. If you do, welcome to share
 # Contributors 貢獻者
 
 * [guguant](https://github.com/Guguant)
+
+# Traditional game 傳統遊戲
+
+* Three 成三棋
+
+  ![three](https://github.com/Guguant/bear/blob/master/demo-picture/three.png)
+
+* Line 對角棋
+
+  ![line](https://github.com/Guguant/bear/blob/master/demo-picture/line.png)
+
+* Cat 小貓釣魚
+
+  ![cat](https://github.com/Guguant/bear/blob/master/demo-picture/cat.png)
