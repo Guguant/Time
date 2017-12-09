@@ -1,1 +1,1 @@
-[guguant](https://github.com/Guguant)
+* [guguant](https://github.com/Guguant)
