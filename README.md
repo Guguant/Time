@@ -4,6 +4,7 @@ Bear is being a book to introduce traditional games all over the world.You maybe
 
 I believe traditional games make relax and happy us. If you do, welcome to share your idea and pull requests.:relaxed:
 
+E-mail: bearsugar[AT]foxmail.com
 # Contributors 貢獻者
 
 * [guguant](https://github.com/Guguant)
