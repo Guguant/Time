@@ -1,5 +1,5 @@
-# What is Kitty Book? 介紹
-![cat](https://github.com/Guguant/kitty-book/blob/master/kitty.png)  **Kitty book** is being a book to introduce traditional games all over the world.You maybe see what you have played, or your parents.
+# What is the Monet Book? 介紹
+![monet](https://github.com/Guguant/kitty-book/blob/master/kitty.png)  **Kitty book** is being a book to introduce traditional games all over the world.You maybe see what you have played, or your parents.
 I believe that traditional games make relax and happy us. If you do, **welcome to share your idea and pull requests**.:relaxed:  
 E-mail: bearsugar(you know)foxmail(dot)com
 
