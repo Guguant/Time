@@ -25,6 +25,14 @@ My E-mail: bearsugar(you know)foxmail(dot)com
 
    ![stone-skipping](ch2-WaterGames/picture/stone-skipping.jpg)
 
+## 3. Paper Game 紙之遊戲
+
+1. Paper Airplanes 折紙飛機
+
+   https://francishodgson.com/2021/02/03/leaving-no-tract-behind
+
+  ![scientist ](https://francishodgson.files.wordpress.com/2021/02/151005_r26991_n.jpg?w=1024)
+
 # Contributors 貢獻者
 
 * [guguant](https://github.com/Guguant)
