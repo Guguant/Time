@@ -31,7 +31,7 @@ My E-mail: bearsugar(you know)foxmail(dot)com
 
    https://francishodgson.com/2021/02/03/leaving-no-tract-behind
 
-  ![scientist ](https://francishodgson.files.wordpress.com/2021/02/151005_r26991_n.jpg?w=1024)
+   ![scientist](ch3-PaperGames/picture/Paper-Airplanes.jpg)
 
 # Contributors 貢獻者
 
