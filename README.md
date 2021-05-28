@@ -5,7 +5,7 @@ I believe that traditional games make relax and happy us. If you are insterestin
 
 My E-mail: bearsugar(you know)foxmail(dot)com
 
-## 1. Stone Game 石之遊戲
+## 1. Stone Games 石之遊戲
 
 1. Best-Three 成三棋
 
@@ -19,19 +19,23 @@ My E-mail: bearsugar(you know)foxmail(dot)com
 
    ![corner-line](ch1-StoneGames/picture/corner-line.png)
 
-## 2. Water Game 水之遊戲
+## 2. Water Games 水之遊戲
 
 1. Stone-Skipping 打水漂
 
    ![stone-skipping](ch2-WaterGames/picture/stone-skipping.jpg)
 
-## 3. Paper Game 紙之遊戲
+## 3. Paper Games 紙之遊戲
 
 1. Paper Airplanes 折紙飛機
 
    https://francishodgson.com/2021/02/03/leaving-no-tract-behind
 
    ![scientist](ch3-PaperGames/picture/Paper-Airplanes.jpg)
+
+## 4. Voice Games 聲之遊戲
+
+listen to the Voice on the Earth.
 
 # Contributors 貢獻者
 
